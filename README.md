@@ -81,4 +81,4 @@ onTap: () {
 ```
 
 ## Example
-You can find the example code [here](https://github.com/gikwegbu/example)
+You can find the example code [here](https://github.com/gikwegbu/expandable_section/tree/main/example)
